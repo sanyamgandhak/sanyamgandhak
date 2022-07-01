@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about javascript
 - 📫 How to reach me: https://www.linkedin.com/in/sayamgandhak/
 
+I am 2022 graduate . Worked as a Full Stack Intern at Truscholar ( India's first blockchain based digital issuance platform ) https://truscholar.io/ . 
+
