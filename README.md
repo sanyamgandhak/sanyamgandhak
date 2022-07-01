@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayam Gandhak</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/gandhaksanyam" target="blank"><img src="https://img.shields.io/twitter/follow/gandhaksanyam?logo=twitter&style=for-the-badge" alt="gandhaksanyam" /></a> </p>
-
 - 🌱 I’m currently learning **REACT**
 
 - 👯 I’m looking to collaborate on **any MERN Project**
@@ -15,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gandhaksanyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gandhaksanyam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayamgandhak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayamgandhak" height="30" width="40" /></a>
 <a href="https://hashnode.com/@samblogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@samblogs" height="30" width="40" /></a>
 </p>
